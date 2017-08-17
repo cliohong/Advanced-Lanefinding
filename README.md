@@ -9,7 +9,7 @@ The following animiation shows a shot of final result of lane detection.
 ![video](video.gif)
 
 
-### Final result with debugging output is from [YouTube Video](https://youtu.be/-1EuZM6DsiA).
+#### Final result is from [YouTube Video](https://youtu.be/-1EuZM6DsiA).
 
 
 
